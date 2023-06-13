@@ -1,0 +1,70 @@
+### basic settings
+
+# site properties and page defaults
+title: Xie Lab
+description: Xie Lab @ UF
+logo: images/lab-logo.png
+header: images/uf-campus.jpeg
+footer: images/uf-campus.jpeg
+baseurl: /
+
+# site social media and other links
+links:
+  email: wenjunxie@ufl.edu
+  google-scholar: 7B4qy2AAAAAJ
+  twitter: Wen_Jun_Xie
+
+### advanced settings
+
+# automatic citations
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
+
+# default front matter parameters for markdown files
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+# collections
+collections:
+  members:
+    output: true
+
+# sass settings
+sass:
+  sass_dir: css
+
+# syntax highlighting
+highlighter: rouge
+
+# plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-github-metadata
+  # - jekyll-avatar
+  # - jekyll-gist
+  # - jekyll-mentions
+  # - jekyll-relative-links
+  # - jemoji
+
+# jekyll theme
+theme: null

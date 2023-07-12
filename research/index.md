@@ -9,7 +9,7 @@ nav:
 
 
 {% capture text %}
-## Evolution-catalysis relationhsip
+## Evolution-catalysis relationship
 We have established a connection between the natural evolutionary information and the physical chemistry of enzymes ([PNAS, 2022a](https://www.pnas.org/doi/abs/10.1073/pnas.2122355119); [PNAS, 2022b](https://www.pnas.org/doi/abs/10.1073/pnas.2207904119)). This insight provides a fresh perspective on enzyme catalysis and evolution, marking the beginning of an exciting journey. Committed to pioneering in this field, our lab aims to advance enzymology and contribute to potential therapeutic solutions involving enzymes.
 
 {:.center}

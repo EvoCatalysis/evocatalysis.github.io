@@ -29,7 +29,7 @@ If you are interested in our research, you are encouraged to send an inquiry and
 We accept graduate students from several different programs at University of Florida. We offer full scholarships and accept applications for both fall and spring semesters. If you are interested in our research, please reach out to [wenjunxie@ufl.edu](mailto:wenjunxie@ufl.edu). Students working in the wet-lab will receive joint supervision from the experimental group.
 
 ### Research assistant
-We warmly welcome research assistants, particularly master's students from UF majoring in computer science, chemical engineering, bioengineering, and related fields.
+We warmly welcome research assistants, particularly master students from UF majoring in computer science, chemical engineering, bioengineering, and related fields.
 
 ### Undergraduate student
 We have opportunities available for undergraduate research. 

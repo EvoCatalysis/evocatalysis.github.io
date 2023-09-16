@@ -16,4 +16,4 @@ links:
 ---
 
 
-Wenjun Xie is an incoming Assistant Professor in the Department of Medicinal Chemistry at University of Florida. He received his BS in Chemistry/Statistics and PhD in Physical Chemistry from Peking University. He completed his postdoctoral training in the Department of Chemistry at MIT and USC.
+Wenjun Xie is an Assistant Professor of Medicinal Chemistry at UF. He received his BS in Chemistry/Statistics and PhD in Physical Chemistry from Peking University. He completed his postdoctoral training at MIT and USC with Nobel Laureate Arieh Warshel.

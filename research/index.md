@@ -24,7 +24,7 @@ We have established a connection between the natural evolutionary information an
 
 {% capture text %}
 ## Rational enzyme engineering
-Our lab is dedicated to the rational design of enzymes, which requires a systematic understanding of their functioning. We've recently demonstrated in a study combining computational and experimental approaches, how we can harness natural evolutionary information to strategically improve different properties of enzymes ([under review]()). Currently, our lab is actively developing different computational algorithms geared towards rational enzyme engineering.
+Our lab is dedicated to the rational design of enzymes, which requires a systematic understanding of their functioning. We have recently demonstrated in a study combining computational and experimental approaches, how we can harness natural evolutionary information to strategically improve different properties of enzymes ([under review]()). Currently, our lab is actively developing different computational algorithms geared towards rational enzyme engineering.
 
 {:.center}
 {% endcapture %}

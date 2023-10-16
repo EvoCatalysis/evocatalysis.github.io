@@ -12,8 +12,8 @@ links:
   orcid: 0000-0002-3982-9305
   google-scholar: 7B4qy2AAAAAJ
   github: 
-  twitter: Wen_Jun_Xie
+  twitter: EvoCatalysis
 ---
 
 
-Wenjun Xie is an Assistant Professor of Medicinal Chemistry at UF. He received his BS in Chemistry/Statistics and PhD in Physical Chemistry from Peking University. He completed his postdoctoral training at MIT and USC with Nobel Laureate Arieh Warshel.
+Wenjun Xie is an Assistant Professor of Medicinal Chemistry at UF. He received his BS in Chemistry/Statistics and PhD in Physical Chemistry from Peking University with Professor Yiqin Gao. He completed his postdoctoral training at MIT with Professor Bin Zhang and USC with Nobel Laureate Arieh Warshel.

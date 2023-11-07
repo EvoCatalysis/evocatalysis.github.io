@@ -17,3 +17,7 @@ links:
 
 
 Wenjun Xie is an Assistant Professor of Medicinal Chemistry at UF. He received his BS in Chemistry/Statistics and PhD in Physical Chemistry from Peking University with Professor Yiqin Gao. He completed his postdoctoral training at MIT with Professor Bin Zhang and USC with Nobel Laureate Arieh Warshel.
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes

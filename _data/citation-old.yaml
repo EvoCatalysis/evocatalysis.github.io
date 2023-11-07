@@ -1,0 +1,31 @@
+- id: doi.org/10.1021/jacs.2c07307
+  title: Exploring the role of chemical reactions in the selectivity of tyrosine kinase inhibitors
+  authors:
+  - M. Asadi
+  - W.J. Xie*
+  - A. Warshel*
+  publisher: Journal of the American Chemical Society
+  date: '2022-8-31'
+  link: https://pubs.acs.org/doi/abs/10.1021/jacs.2c07307
+  image: ../images/publications/paper-2022-btk.png
+
+- id: doi.org/10.1073/pnas.2207904119
+  title: Natural evolution provides strong hints about laboratory evolution of designer enzymes
+  authors:
+  - W.J. Xie*
+  - A. Warshel*
+  publisher: Proceedings of the National Academy of Sciences USA
+  date: '2022-7-28'
+  link: https://www.pnas.org/doi/10.1073/pnas.2207904119
+  image: ../images/publications/paper-2022-kemp.png
+
+- id: doi.org/10.1073/pnas.2122355119
+  title: Enhancing computational enzyme design by a maximum entropy approach
+  authors:
+  - W.J. Xie*
+  - M. Asadi
+  - A. Warshel*
+  publisher: Proceedings of the National Academy of Sciences USA
+  date: '2022-2-8'
+  link: https://www.pnas.org/doi/10.1073/pnas.2122355119
+  image: ../images/publications/paper-2022-maxent.png

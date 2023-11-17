@@ -15,7 +15,7 @@ We are focused on assembling a diverse, inclusive, and interdisciplinary group o
 
 
 ### Graduate student
-Please apply for the [PhD program](https://graduateeducation.pharmacy.ufl.edu/prospective-students/application-process/) for Medicinal Chemistry at the College of Pharmacy. Several positions are available. While the department commences the review of applications in December, we will accept submissions until April 2024 or until all positions are filled.
+Please apply for the [PhD program](https://graduateeducation.pharmacy.ufl.edu/prospective-students/application-process/) for Medicinal Chemistry at the College of Pharmacy (Fall 2024). Several positions are available. While the department commences the review of applications in December 2023, we will keep accepting submissions until all positions are filled.
 
 We offer full scholarships for all positions, and there is no need for students to take up TA positions. GRE is not necessary.
 

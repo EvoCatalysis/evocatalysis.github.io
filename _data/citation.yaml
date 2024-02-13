@@ -3,10 +3,10 @@
   authors:
   - W.J. Xie*
   - A. Warshel*
-  publisher: [publisher name]
-  date: 'Under review'
-  link: https://www.biorxiv.org/content/10.1101/2023.10.10.561808v1
-  image: [the path to your thumbnail image if available]
+  publisher: National Science Review
+  date: 28 Dec 2023
+  link: https://doi.org/10.1093/nsr/nwad331
+  image: ../images/publications/paper-2023-nsr.jpg
 
 - id:
   title: Enhancing luciferase activity and stability through generative modeling of natural enzyme sequences
@@ -19,7 +19,7 @@
   - A. Nandi
   - S. Dong*
   - A. Warshel*
-  publisher: [publisher name]
-  date: 'Under review'
-  link: https://www.biorxiv.org/content/10.1101/2023.09.18.558367v2
-  image: [the path to your thumbnail image if available]
+  publisher: Proceedings of the National Academy of Sciences USA
+  date: 20 Nov 2023
+  link: https://www.pnas.org/doi/10.1073/pnas.2312848120
+  image: ../images/publications/paper-2023-RLuc.jpg

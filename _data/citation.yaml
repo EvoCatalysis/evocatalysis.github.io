@@ -1,15 +1,30 @@
 - id:
+  title: Exploring the light-emitting agents in Renilla luciferases by an effective QM/MM approach
+  authors:
+  - A Nandi
+  - A Zhang
+  - ZT Chu
+  - WJ Xie
+  - Z Xu
+  - S Dong
+  - A Warshel
+  publisher: Journal of the American Chemical Society
+  date: 20 Mar 2024
+  link:
+  image:
+
+- id:
   title: Molecular basis of Gabija anti-phage supramolecular assemblies
   authors:
-  - X.Y. Yang
-  - Z. Shen
-  - J. Xie
-  - J. Greenwald
-  - I. Marathe
-  - Q. Lin
-  - W.J. Xie
-  - V.H. Wysocki
-  - T.M. Fu
+  - XY Yang
+  - Z Shen
+  - J Xie
+  - J Greenwald
+  - I Marathe
+  - Q Lin
+  - WJ Xie
+  - VH Wysocki
+  - TM Fu
   publisher: Nature Structural Molecular Biology
   date: 20 Mar 2024
   link: 
@@ -18,8 +33,8 @@
 - id:
   title: Harnessing generative AI to decode enzyme catalysis and evolution for enhanced engineering
   authors:
-  - W.J. Xie*
-  - A. Warshel*
+  - WJ Xie*
+  - A Warshel*
   publisher: National Science Review
   date: 28 Dec 2023
   link: https://doi.org/10.1093/nsr/nwad331
@@ -28,14 +43,14 @@
 - id:
   title: Enhancing luciferase activity and stability through generative modeling of natural enzyme sequences
   authors:
-  - W.J. Xie*
-  - D. Liu
-  - X. Wang
-  - A. Zhang
-  - Q. Wei
-  - A. Nandi
-  - S. Dong*
-  - A. Warshel*
+  - WJ Xie*
+  - D Liu
+  - X Wang
+  - A Zhang
+  - Q Wei
+  - A Nandi
+  - S Dong*
+  - A Warshel*
   publisher: Proceedings of the National Academy of Sciences USA
   date: 20 Nov 2023
   link: https://www.pnas.org/doi/10.1073/pnas.2312848120

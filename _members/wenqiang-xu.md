@@ -1,6 +1,6 @@
 ---
 name: Wenqiang (Ethan) Xu
-image: ../images/headshots/
+image: ../images/headshots/headshot-Xu.jpg
 description: 
 role: postdoc
 aliases:

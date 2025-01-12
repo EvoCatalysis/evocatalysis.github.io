@@ -1,4 +1,20 @@
 - id:
+  title: Biochemical and Computational Characterization of Haloalkane Dehalogenase Variants Designed by Generative AI - Accelerating the SN2 Step
+  authors:
+  - N Gelfand
+  - V Orel
+  - W Cui
+  - J Damborský
+  - C Li
+  - Z Prokop*
+  - WJ Xie*
+  - A Warshel*
+  publisher: Journal of the American Chemical Society
+  date: 10 Jan 2025
+  link: https://pubs.acs.org/doi/10.1021/jacs.4c15551
+  image: ../images/publications/paper-2025-DhlA.png
+
+- id:
   title: Exploring the light-emitting agents in Renilla luciferases by an effective QM/MM approach
   authors:
   - A Nandi

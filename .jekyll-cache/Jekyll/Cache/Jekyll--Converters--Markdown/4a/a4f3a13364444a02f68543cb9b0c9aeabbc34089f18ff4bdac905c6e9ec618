@@ -1,0 +1,104 @@
+I"›<h1 id="people"><i class="fas fa-users"></i>People</h1>
+
+<!-- section break -->
+
+<h2 id="current-members">Current Members</h2>
+
+<a href="/members/wenjun-xie.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="Principal Investigator"><i class="fas fa-chalkboard-teacher"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/headshots/xie.png"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Wenjun Xie"
+    >
+  </span><span class="portrait_name">
+      Wenjun Xie
+    </span><span class="portrait_description">
+      
+    </span></a>
+
+<a href="/members/wenqiang-cui.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="Postdoctoral Researcher"><i class="fas fa-brain"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/headshots/headshot-Cui.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Wenqiang (Will) Cui"
+    >
+  </span><span class="portrait_name">
+      Wenqiang (Will) Cui
+    </span><span class="portrait_description">
+      
+    </span></a>
+<a href="/members/wenqiang-xu.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="Postdoctoral Researcher"><i class="fas fa-brain"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/headshots/headshot-Xu.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Wenqiang (Ethan) Xu"
+    >
+  </span><span class="portrait_name">
+      Wenqiang (Ethan) Xu
+    </span><span class="portrait_description">
+      
+    </span></a>
+
+<a href="/members/jon-golan.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="Graduate Student"><i class="fas fa-graduation-cap"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/headshots/jon-golan.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Jon Golan"
+    >
+  </span><span class="portrait_name">
+      Jon Golan
+    </span><span class="portrait_description">
+      
+    </span></a>
+<a href="/members/mengting-li.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="Graduate Student"><i class="fas fa-graduation-cap"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/headshots/headshot-Li.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Mengting Li"
+    >
+  </span><span class="portrait_name">
+      Mengting Li
+    </span><span class="portrait_description">
+      
+    </span></a>
+<a href="/members/yunlu-liu.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="Graduate Student"><i class="fas fa-graduation-cap"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/headshots/headshot-Li.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Mengting Li"
+    >
+  </span><span class="portrait_name">
+      Mengting Li
+    </span><span class="portrait_description">
+      
+    </span></a>
+
+<a href="/members/leif-holmstrom.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="Undergraduate Student"><i class="fas fa-seedling"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/headshots/headshot-Holmstrom.JPG"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Leif Holmstrom"
+    >
+  </span><span class="portrait_name">
+      Leif Holmstrom
+    </span><span class="portrait_description">
+      
+    </span></a>
+
+<!-- section break -->
+
+:ET

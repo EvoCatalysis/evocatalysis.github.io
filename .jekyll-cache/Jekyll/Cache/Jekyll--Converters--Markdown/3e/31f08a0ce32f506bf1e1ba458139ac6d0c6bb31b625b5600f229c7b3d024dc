@@ -1,10 +1,30 @@
-I"§<h1 id="--news"><i class="fas fa-bullhorn"></i>  News</h1>
+I"ë<h1 id="--news"><i class="fas fa-bullhorn"></i>  News</h1>
 
 <!-- section break -->
 
 <div class="search_info"></div>
 
 <h3 id="2025">2025</h3>
+
+<div class="post_excerpt">
+  
+  
+  <p>
+    <a href="/2025/06/30/UF-ROSF.html">JACS paper using sequence to predict individual steps in enzymatic reaction</a>
+  </p>
+
+  <div class="post_info"><span>
+      <i class="far fa-calendar-alt"></i>
+      <span>June 30, 2025</span>
+    </span></div>
+
+  
+  <p>
+    We showed evolutionary sequence data can predict individual steps in enzymatic reaction. This is crucial for us to understand how nature evolves efficient enzymes and could inform us strategies for rational enzyme design. Congrats to Dr. Wenqiang Cui and all authors!
+
+  </p>
+  <br />
+</div>
 
 <div class="post_excerpt">
   
@@ -20,7 +40,7 @@
 
   
   <p>
-    Our got a DARPA AI grant with Dr. Panâ€™s lab!
+    We showed evolutionary sequence data can predict individual steps in enzymatic reaction. This is crucial for us to understand how nature evolves efficient enzymes and could inform us strategies for rational enzyme design. Congrats to Dr. Wenqiang Cui and all authors!
 
   </p>
   <br />
@@ -41,7 +61,7 @@
 
   
   <p>
-    Our got a DARPA AI grant with Dr. Panâ€™s lab!
+    Our got a DARPA AI grant with Dr. Panâ€™s lab on enzyme design!
 
   </p>
   <br />

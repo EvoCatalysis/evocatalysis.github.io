@@ -1,10 +1,30 @@
-I"ã<h1 id="--news"><i class="fas fa-bullhorn"></i>  News</h1>
+I"Ù<h1 id="--news"><i class="fas fa-bullhorn"></i>  News</h1>
 
 <!-- section break -->
 
 <div class="search_info"></div>
 
 <h3 id="2025">2025</h3>
+
+<div class="post_excerpt">
+  
+  
+  <p>
+    <a href="/2025/12/04/BGC-JCIM.html">AI models connecting BGC to natural products accepted in JCIM</a>
+  </p>
+
+  <div class="post_info"><span>
+      <i class="far fa-calendar-alt"></i>
+      <span>December 04, 2025</span>
+    </span></div>
+
+  
+  <p>
+    We developed two attention-based models to predict natural products from enzymes in biosythetic gene cluster! These models could be very useful in genome mining and drug discovery.
+
+  </p>
+  <br />
+</div>
 
 <div class="post_excerpt">
   

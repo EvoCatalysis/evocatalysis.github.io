@@ -1,4 +1,40 @@
 - id:
+  title: "Bacterial Cytochrome P450 for Oxidative Halogenated Biaryl Coupling"
+  authors:
+    - V Petriti
+    - K Nolan
+    - W Xu
+    - S Tsai
+    - X Wang
+    - WJ Xie
+    - G Zheng
+    - Y Wang
+    - Y Ding
+  publisher: ACS Catalysis
+  date: 19 Dec 2025
+  link: https://pubs.acs.org/doi/10.1021/acscatal.5c08060
+  image: 
+
+
+- id:
+  title: "BGC-MAC and BGC-MAP: Attention-Based Models for Biosynthetic Gene Cluster Classification and Product Matching"
+  authors:
+  - K Lu
+  - M Li
+  - H Geng
+  - W Xu
+  - M Chen
+  - T-M Fu
+  - H Luesch
+  - Y Ding
+  - WJ Xie*
+  publisher: Journal of Chemical Information and Modeling
+  date: 18 Dec 2025
+  link: https://pubs.acs.org/doi/10.1021/acs.jcim.5c02082
+  image: ../images/publications/paper-2025-BGC.png
+
+
+- id:
   title: Biochemical and Computational Characterization of Haloalkane Dehalogenase Variants Designed by Generative AI - Accelerating the SN2 Step
   authors:
   - N Gelfand

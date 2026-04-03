@@ -1,6 +1,6 @@
 ---
 name: Wenjun Xie
-image: images/headshots/xie.png
+image: images/headshots/Xie_2026_website.jpeg
 description: 
 role: pi
 aliases:

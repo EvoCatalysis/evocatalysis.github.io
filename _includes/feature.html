@@ -6,7 +6,7 @@
     <img
       src="{{ include.image | relative_url }}"
       loading="lazy"
-      alt=""
+      alt="{{ include.alt | default: include.headline | default: '' }}"
     />
   </a>
   <div class="feature_text">

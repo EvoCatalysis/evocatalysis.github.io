@@ -50,7 +50,7 @@
   >
     <img
       src="{{ include.image | relative_url }}"
-      alt="{{ include.caption | default: '' }}"
+      alt="{{ include.alt | default: include.caption | default: '' }}"
       title="{{ include.caption | default: '' }}"
       style="{{ img }}"
       loading="lazy"

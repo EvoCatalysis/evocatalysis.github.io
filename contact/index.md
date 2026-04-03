@@ -23,6 +23,7 @@ Address: 1345 Center Dr. Gainesville, FL 32610 MSB Room P6-29 [[map](https://www
 {%
   include feature.html
   image="../images/uf-campus.webp"
+  alt="University of Florida campus view with historic red-brick buildings and tree-lined walkways"
   headline=""
   text=text
 %}

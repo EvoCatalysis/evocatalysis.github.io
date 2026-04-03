@@ -11,4 +11,5 @@ We focus on investigating the relationship between enzyme sequences and their ca
   image="../images/research-summary.png"
   width="1000px"
   width="100%"
+  alt="Overview of evolutionary catalysis integrating AI, computational chemistry, and wet-lab workflows"
 %}

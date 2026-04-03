@@ -33,7 +33,8 @@
           onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
           data-tooltip="{{ id }}"
           loading="lazy"
-          alt="Citation thumbnail"
+          alt="{{ citation.alt | default: citation.title | default: 'Publication figure' }}"
+
         >
       </a>
     </div>

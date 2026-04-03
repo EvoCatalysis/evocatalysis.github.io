@@ -18,6 +18,7 @@ We have established a connection between evolutionary sequence data and enzyme a
 {%
   include feature.html
   image="images/research/enzyme-theory.png"
+  alt="Diagram illustrating evolutionary catalysis linking sequence variation to enzyme activity and stability using AI-based models"
   headline=""
   text=text
 %}
@@ -32,7 +33,8 @@ We have leveraged naturally evolved enzyme sequences to enhance activity and sta
 {%
   include feature.html
   image="images/research/landscape.png"
-  headline="Neural interfaces for biasing plasticity"
+  alt="Landscape of enzyme engineering showing sequence-guided optimization and discovery of novel enzymes across biological systems"
+  headline=""
   text=text
 %}
 
@@ -46,6 +48,7 @@ Our focus lies in employing AI and computational chemistry for the purpose of de
 {%
   include feature.html
   image="images/research/inhibitor.png"
-  headline="Plasticity-based interventions for visual impairment"
+  alt="AI-driven design of enzyme inhibitors highlighting molecular generation and computational evaluation of binding selectivity"
+  headline=""
   text=text
 %}

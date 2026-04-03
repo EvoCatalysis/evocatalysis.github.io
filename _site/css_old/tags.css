@@ -8,6 +8,6 @@
 
 .tags .tag:hover, .tags .tag[data-active="true"] { background: #bdbdbd; }
 
-.tags .tag[data-highlight="true"] { background: #01579b; }
+.tags .tag[data-highlight="true"] { background: #311b92; }
 
 /*# sourceMappingURL=tags.css.map */

@@ -10,7 +10,8 @@ nav:
 
 {% include section.html %}
 
+## Publications since joining UF
 {% include list.html data="citation" component="citation" style="rich" %}
-### Selected publications on enzyme before joining UF (27 publications in total)
+## Selected publications before joining UF (27 total)
 {% include list.html data="citation-old" component="citation" style="rich" %}
 

@@ -12,7 +12,7 @@ nav:
 
 
 {% capture text %}
-We are part of the [Dpeartment of Medicinal Chemistry](https://mc.pharmacy.ufl.edu/) at University of Florida. Out lab is located within the main campus in Gainesville.
+We are part of the [Department of Medicinal Chemistry](https://mc.pharmacy.ufl.edu/) at University of Florida. Our lab is located within the main campus in Gainesville.
 
 Inquiries can be directed to [wenjunxie@ufl.edu](mailto:wenjunxie@ufl.edu).
 

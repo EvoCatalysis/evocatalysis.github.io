@@ -8,4 +8,6 @@
 
 .post_info > span i.fas, .post_info > span i.far, .post_info > span i.fab, .post_info > span i.fal, .post_info > span i.fad, .post_info > span i.fa-solid, .post_info > span i.fa-regular, .post_info > span i.fa-light, .post_info > span i.fa-thin, .post_info > span i.fa-duotone, .post_info > span svg { margin-right: 0.5em; }
 
+.post_date { color: #424242; font-weight: 500; }
+
 /*# sourceMappingURL=post-info.css.map */
